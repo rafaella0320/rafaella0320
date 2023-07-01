@@ -18,5 +18,5 @@
 <img target="_blank" align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img target="_blank" align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
-<hr>
+
 Com criatividade, comprometimento e foco em resultados, busco sempre aprender cada vez mais visando aprimorar meus conhecimentos! 🚀
