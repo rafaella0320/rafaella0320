@@ -1,4 +1,5 @@
 ### Olá, meu nome é Rafaella Moreira 👋
+Com criatividade, comprometimento e foco em resultados, busco sempre aprender cada vez mais visando aprimorar meus conhecimentos! 🚀
 <hr>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaella-moreira-75084a239/)
@@ -18,5 +19,3 @@
 <img target="_blank" align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img target="_blank" align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
-
-Com criatividade, comprometimento e foco em resultados, busco sempre aprender cada vez mais visando aprimorar meus conhecimentos! 🚀
