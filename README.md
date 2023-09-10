@@ -2,7 +2,7 @@
 Com criatividade, comprometimento e foco em resultados, busco sempre aprender cada vez mais visando aprimorar meus conhecimentos! 🚀
 <hr>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaella-moreira-75084a239/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaellamoreira03/)
 
 ![Rafaella GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaella0320&theme=jolly&show_icons=true)
 
